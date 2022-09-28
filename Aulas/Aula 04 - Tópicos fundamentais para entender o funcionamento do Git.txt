@@ -1,0 +1,12 @@
+
+	# Conteúdo da aula
+		- SHA1
+		- objetos fundamentais
+		- Sistema distribuído
+		- Segurança
+
+	# SHA1
+	A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+	Por isso é relevante? Porque a encriptação gera conjunto de characteres identificador de 40 dígitos. Ele é único.
+	
+	# Demonstração da utilização do comando openssl sha1 arquivo no Git e o que ele efetivamente faz.
