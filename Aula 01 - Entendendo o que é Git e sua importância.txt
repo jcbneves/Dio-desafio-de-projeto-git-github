@@ -1,0 +1,17 @@
+Por quê aprender Git?
+	
+	# Analogia do jornalismo.
+	O jornalista submete o rascunho de um artigo ao revisor do jornal que o revisa e sugere alterações até que o artigo seja aprovado pelo editor-chefe e publicado.
+	O programador submete seu código ao interpretador de código que, diga-se, é muito mais exigente.
+	
+	# Git
+	É um sistema de versionamento de código distribuido, criado por Linus Torvalds. O Git nos ajuda a criar e monitorar diferentes versões de código.
+	Um soft é feito de maneira colaborativa.
+	Git é diferente de GitHub. Há varios outros concorrentes no mercado que fazem a mesma coisa.
+
+	# Benefícios do Git
+		1. Controle de versão;
+		2. Armazenamento em nuvem;
+		3. Trabalho em equipe;
+		4. Melhorar seu código;
+		5. Reconhecimneto.
